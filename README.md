@@ -15,6 +15,14 @@ Usage: backup2mail [-v|-h] -d <directory>
     -d <directory> -- directory to take backup of
 ```
 
+## To Do
+
+ - [ ] Add SMTP integration
+ - [ ] Create interactive mode using dialogs (for selecting files / directories)
+ - [ ] Create configuration file support
+ - [ ] Create custom argument parser for this script
+ - [ ] Create `setup.sh` file for installing this tool globally
+
 ## Author
 
 @MatthevDev 💻
